@@ -1,0 +1,9 @@
+test/
+changelog.markdown
+code-of-conduct.md
+security.md
+.travis.yml
+appveyor.yml
+.github/*
+example/*
+assets/*

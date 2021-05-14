@@ -1,5 +1,7 @@
 # browserify
 
+Modified by Jimbly to include `resolve` options required for `glov-build`
+
 `require('modules')` in the browser
 
 Use a [node](http://nodejs.org)-style `require()` to organize your browser code
